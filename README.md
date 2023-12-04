@@ -16,24 +16,26 @@
           <a href="https://cplusplus.com/doc/tutorial/">
             <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="Cpp" width="50" height="50"/>
           </a> &nbsp; 
-          <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Csharp" width="50" height="50"/>
-          </a> &nbsp; 
           <a href="https://www.python.org/">
             <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
           </a> &nbsp;
-          <a href="https://dart.dev/">
-            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
-          </a> &nbsp; 
           <a href="https://www.php.net/">
             <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+          </a> &nbsp; 
+          <a href="https://sass-lang.com/">
+            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
+          </a> &nbsp;
+          <!-- 
+          <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Csharp" width="50" height="50"/>
+          </a> &nbsp; 
+          <a href="https://dart.dev/">
+            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
           </a> &nbsp; 
           <a href="https://www.typescriptlang.org/">
             <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
           </a> &nbsp;
-          <a href="https://sass-lang.com/">
-            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
-          </a> &nbsp;
+          -->
         </td>
     </tr>
     <tr>
@@ -51,12 +53,14 @@
           <a href="https://pandas.pydata.org/">
             <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
           </a> &nbsp;
+          <!-- 
           <a href="https://flutter.dev/">
             <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
           </a> &nbsp; 
           <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction">
             <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="50" height="50"/>
-          </a> &nbsp; 
+          </a> &nbsp;
+          -->
         </td>
     </tr>
     <tr>
@@ -68,9 +72,11 @@
           <a href="https://www.postgresql.org/">
             <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
           </a> &nbsp; 
+          <!-- 
           <a href="https://www.sqlservertutorial.net/">
             <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50"/>
           </a> &nbsp;
+          -->
         </td>
     </tr>
     <tr>
@@ -93,12 +99,14 @@
           <a href="https://nodejs.org/en/">
             <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/>
           </a> &nbsp; 
-          <a href="https://aws.amazon.com/">
-            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
-          </a> &nbsp; 
           <a href="https://www.heroku.com/">
             <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="50" height="50"/>
           </a> &nbsp;
+          <!--
+          <a href="https://aws.amazon.com/">
+            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+          </a> &nbsp;
+          -->
         </td>
     </tr>
 </table>
