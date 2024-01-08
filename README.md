@@ -2,15 +2,11 @@
 
 <a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cruxcook&show_icons=true&hide_border=true&hide_title=true&theme=default#gh-light-mode-only&bg_color=00000000" />
-</a>
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruxcook&layout=compact&hide_border=true&hide_title=true&theme=gruvbox_light#gh-light-mode-only&bg_color=00000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cruxcook&show_icons=true&hide_border=true&hide_title=true&theme=gruvbox#gh-dark-mode-only&bg_color=00000000" />
 </a>
 
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cruxcook&show_icons=true&hide_border=true&hide_title=true&theme=gruvbox#gh-dark-mode-only&bg_color=00000000" />
-</a>
-<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruxcook&layout=compact&hide_border=true&hide_title=true&theme=default#gh-light-mode-only&bg_color=00000000" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruxcook&layout=compact&hide_border=true&hide_title=true&theme=gruvbox#gh-dark-mode-only&bg_color=00000000" />
 </a>
 
