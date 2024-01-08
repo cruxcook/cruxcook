@@ -1,17 +1,22 @@
 <h1 align="center">Crux Cook</h1>
 
-<img 
-    align="left"
-    height='165'
-    width='400'
-    src="https://github-readme-stats.vercel.app/api?username=cruxcook&show_icons=true&hide_border=true&hide_title=true&theme=transparent"
-/>
-<img 
-    align="right"
-    height='165'
-    width='400'
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruxcook&layout=compact&hide_border=true&hide_title=true&theme=transparent"
-/>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cruxcook&show_icons=true&hide_border=true&hide_title=true&theme=default#gh-light-mode-only&bg_color=00000000" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruxcook&layout=compact&hide_border=true&hide_title=true&theme=gruvbox_light#gh-light-mode-only&bg_color=00000000" />
+</a>
+
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cruxcook&show_icons=true&hide_border=true&hide_title=true&theme=gruvbox#gh-dark-mode-only&bg_color=00000000" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruxcook&layout=compact&hide_border=true&hide_title=true&theme=gruvbox#gh-dark-mode-only&bg_color=00000000" />
+</a>
+
+<!-- Repo Card
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cruxcook&repo=cruxtrove&theme=gruvbox&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <table>
     <tr>
