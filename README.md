@@ -29,6 +29,19 @@
     />
 </a>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=cruxcook&show_icons=true&hide_border=true&hide_title=true&theme=gruvbox&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=cruxcook&show_icons=true&hide_border=true&hide_title=true&theme=default&bg_color=00000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cruxcook&show_icons=true" />
+</picture>
+
+
 <!-- Repo Card
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cruxcook&repo=cruxtrove&theme=gruvbox&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
