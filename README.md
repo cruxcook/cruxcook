@@ -94,6 +94,13 @@
                     width="50" height="50"
                 />
             </a> &nbsp;
+            <a href="https://www.typescriptlang.org/">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+                    alt="TypeScript"
+                    width="50" height="50"
+                />
+            </a> &nbsp;
             <a href="https://www.javascript.com/">
                 <img
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
@@ -103,7 +110,7 @@
             </a> &nbsp;
             <a href="https://www.php.net/">
                 <img  
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
                     alt="PHP"
                     width="50" height="50"
                 />
@@ -138,6 +145,27 @@
                 <img  
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
                     alt="Flutter"
+                    width="50" height="50"
+                />
+            </a> &nbsp;
+            <a href="https://nextjs.org/">
+                <img  
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+                    alt="Next.js"
+                    width="50" height="50"
+                />
+            </a> &nbsp;
+            <a href="https://expressjs.com/">
+                <img  
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+                    alt="Express.js"
+                    width="50" height="50"
+                />
+            </a> &nbsp;
+            <a href="https://tailwindcss.com/">
+                <img  
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+                    alt="TailwindCSS"
                     width="50" height="50"
                 />
             </a> &nbsp;
@@ -214,6 +242,13 @@
                 <img  
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"
                     alt="Heroku"
+                    width="50" height="50"
+                />
+            </a> &nbsp;
+            <a href="https://vercel.com/">
+                <img  
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"
+                    alt="Vercel"
                     width="50" height="50"
                 />
             </a> &nbsp;
